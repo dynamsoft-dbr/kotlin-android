@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Barcode Reader</string>
+    <string name="title">Dynamsoft Barcode</string>
+    <string name="scan_hint">Align the barcode within the square</string>
+    <string name="flash_off">Flash off</string>
+    <string name="about">Dynamsoft Barcode Reader Mobile App Demo (Dynamsoft Barcode Reader SDK v4.2.0)\r\n© 2016 Dynamsoft All rights reserved.\r\n\r\nIntegrate Barcode Reader Functionality into your own Mobile App?\r\n</string>
+    <string name="download"></string>
+    <string name="linear">Linear</string>
+    <string name="qrcode">QRCode</string>
+    <string name="pdf417">PDF417</string>
+    <string name="datamatrix">DataMatrix</string>
+    <string name="barcode_result">Value: %1$s\nFormat: %2$s</string>
+    <string name="bt_read_barcode">Scan</string>
+</resources>
