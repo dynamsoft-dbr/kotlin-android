@@ -14,5 +14,9 @@ The sample demonstrates how to mix Kotlin and Java code to build a barcode reade
 ## How to Get a Trial or Full SDK License
 The license used in the demo will be expired in 30 days. If you want to get a valid license, please contact support@dynamsoft.com.
 
+## Blog
+[Mixing Kotlin and Java to Build Android Barcode Reader][3]
+
 [1]:https://developer.android.com/studio/preview/index.html
 [2]:http://www.dynamsoft.com/Products/barcode-scanner-sdk-android.aspx
+[3]:http://www.codepool.biz/kotlin-java-android-barcode-reader.html
